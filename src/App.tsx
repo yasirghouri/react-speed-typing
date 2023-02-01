@@ -2,7 +2,7 @@ import React from 'react';
 
 function App() {
   return (
-    <div className="App">
+    <div className="text-4xl text-center text-blue-200">
       React Typescript
     </div>
   );
